@@ -2,8 +2,6 @@
 Python Tkinter Edition with Bonus Food, Obstacles &amp; High Score
 # 🐍 Snake Game — Python + Tkinter Edition
 
-![Game Screenshot](./5fdce784-af75-4e91-8c11-4da27f9dafe8.png)
-
 A modern twist on the classic Snake Game 🕹️ built using **Python** and **Tkinter**, featuring:
 
 - 🧠 Smart collision detection  
